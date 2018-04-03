@@ -1,0 +1,8 @@
+{
+  "name": "DatabasePractice",
+  "app_id": "d738f848",
+  "type": "ionic-angular",
+  "integrations": {
+    "cordova": {}
+  }
+}
